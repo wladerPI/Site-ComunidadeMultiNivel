@@ -15,7 +15,7 @@ O site ComunidadeMultiNivel foi desenvolvido para melhor gerenciamento de equipe
   - Alterar Dados Pessoais
     - Dados do Perfil 
     - Alterar Senha
-    = Foto do Perfil
+    - Foto do Perfil
   - Sua Rede no Sistema
     - Seu Patrocinador
     - Seus Indicados Diretos
