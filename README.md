@@ -7,7 +7,14 @@ O site ComunidadeMultiNivel foi desenvolvido para melhor gerenciamento de equipe
 # A ideia
 - A ideia principal do site Comunidade MultiNível era gerenciar uma estratégia de crescimento de nossa equipe dentro da empresa TalkFusion, com ferramentas para alavancar o nosso cresimento dentro das empresas de Marketing MultiNivel e tutoriais explicativos e incentivadores para impulsionar o nosso trabalho e capacitar novos empreendedores.
 
-# Alguns Recursos do Site Comunidade MultiNível
+# A empresa TalkFusion
+Em 2004, o fundador e CEO da Talk Fusion, Bob Reina, queria enviar um vídeo por e-mail, mas seu provedor de serviços de Internet disse que isso não podia ser feito. Com a ajuda de um amigo de TI, eles conseguiram o Email de Vídeo aparentemente impossível e aperfeiçoado. 
+O fenômeno que começou com o Video Email em 2007 evoluiu para cinco produtos incríveis - Email de Vídeo, Boletins de Vídeo, Reuniões ao Vivo, Chat com Vídeo e Formulários de Inscrição - que fornecerão resultados incríveis para uso pessoal e comercial. 
+Os produtos oferecem uma maneira divertida, fresca e nova de se comunicar! Mas para Bob Reina, isso não foi suficiente. Ele não queria apenas uma empresa que introduzisse tecnologia de ponta. Ele queria uma maneira de ajudar as pessoas a se libertarem de um estilo de vida entre 9 e 5 anos.
+LINK do Site Oficial da empresa: https://talkfusion.com/
+
+
+# Links e Recursos do Site Comunidade MultiNível
 
 - Area restrita para usuarios
   #Menu
@@ -44,10 +51,40 @@ O site ComunidadeMultiNivel foi desenvolvido para melhor gerenciamento de equipe
     
   
 - Area restrita para Administradores
+  #Menu
+  - Painel Inicial
+  - Alterar Dados Pessoais
+    - Dados Gerais 
+    - Alterar Senha 
+    - Dados do Projeto (CM)
+    - Emails Capturados
+  - Clientes Registrados
+    - Todos Clientes
+    - Últimos Acessos
+  - Gerenciar Dicas
+    - Ánuncios Pagos
+    - Ánuncios CPM
+    - Ánuncios CPC
+    - Ánuncios CPC PopUp
+    - Solicitações TrafficMonsoon
+    - Histórico de Pontuações
+    - Config Promoções
+    - Config Geral
+  - Moderadores
+    - Todos Moderadores
+    - Adcionar Moderadores
+  - Fórum
+    - Resumo
+    - Todos os Tópicos
+    - Todas as Respostas
+  - Parcelamentos
+    - Todos Parcelamentos 
+  - TalkFusion
+    - Resumo
+    - Ativar Afiliados
+    - Rede
+    - Rede do Simulador
+    - Todos os Clientes
+   
+    
 
-
-# A empresa TalkFusion
-Em 2004, o fundador e CEO da Talk Fusion, Bob Reina, queria enviar um vídeo por e-mail, mas seu provedor de serviços de Internet disse que isso não podia ser feito. Com a ajuda de um amigo de TI, eles conseguiram o Email de Vídeo aparentemente impossível e aperfeiçoado. 
-O fenômeno que começou com o Video Email em 2007 evoluiu para cinco produtos incríveis - Email de Vídeo, Boletins de Vídeo, Reuniões ao Vivo, Chat com Vídeo e Formulários de Inscrição - que fornecerão resultados incríveis para uso pessoal e comercial. 
-Os produtos oferecem uma maneira divertida, fresca e nova de se comunicar! Mas para Bob Reina, isso não foi suficiente. Ele não queria apenas uma empresa que introduzisse tecnologia de ponta. Ele queria uma maneira de ajudar as pessoas a se libertarem de um estilo de vida entre 9 e 5 anos.
-LINK do Site Oficial da empresa: https://talkfusion.com/
