@@ -9,6 +9,41 @@ O site ComunidadeMultiNivel foi desenvolvido para melhor gerenciamento de equipe
 
 # Alguns Recursos do Site Comunidade MultiNível
 
+- Area restrita para usuarios
+  #Menu
+  - Painel Inicial
+  - Alterar Dados Pessoais
+    - Dados do Perfil 
+    - Alterar Senha
+    = Foto do Perfil
+  - Sua Rede no Sistema
+    - Seu Patrocinador
+    - Seus Indicados Diretos
+    - Seus Níveis de Indicações
+    - Últimos Acessos de Seus Indicados
+    - Seus Links de Indicações
+  - FÓRUM
+    - Tópicos Criados
+    - Responstas Enviadas
+  - Talk Funcion
+    - Resumo
+    - Seja um Distribuidor
+    - Capas para Seu Facebook
+    - Projeções de Ganhos
+  - Dicas Diárias
+    - Resumo 
+    - Iniciar
+    - TrafficMonsoon
+    - Rank de Premiação
+    - Promoção do Mês
+    - Como Funciona
+  - Contatos
+    - Comentarios no Facebook
+    - Página do Facebook
+    - Contato Comunidade MultiNivel
+    
+  
+- Area restrita para Administradores
 
 
 # A empresa TalkFusion
