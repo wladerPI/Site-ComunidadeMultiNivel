@@ -16,7 +16,7 @@ LINK do Site Oficial da empresa: https://talkfusion.com/
 
 # Links e Recursos do Site Comunidade MultiNível
 
-# Area restrita para usuarios (Menu)
+# Área restrita para usuarios (Menu)
   - Painel Inicial
   - Alterar Dados Pessoais
     - Dados do Perfil 
@@ -49,7 +49,7 @@ LINK do Site Oficial da empresa: https://talkfusion.com/
     - Contato Comunidade MultiNivel
     
   
-# Area restrita para Administradores (Menu)
+# Área restrita para Administradores (Menu)
   - Painel Inicial
   - Alterar Dados Pessoais
     - Dados Gerais 
