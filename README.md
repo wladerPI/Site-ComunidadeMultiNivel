@@ -84,10 +84,10 @@ LINK do Site Oficial da empresa: https://talkfusion.com/
     - Rede do Simulador
     - Todos os Clientes
    
-#Tabelas do Banco de Dados (comunidademult)
+# Tabelas do Banco de Dados (comunidademult)
   - Veja a estrutura do Banco de Dados no Arquivo estrutara_sql.txt
      
-#Linguagens de programação utilizada no site
+# Linguagens de programação utilizada no site
 - HTML
 - CSS
 - PHP
@@ -95,5 +95,5 @@ LINK do Site Oficial da empresa: https://talkfusion.com/
 - JQuery
 - MySQL
 
-#Outras Informações e Utilizações
+# Outras Informações e Utilizações
   - Foi interado o Layout da plataforma AdminLTE (AdminLTE-1.0), veja o link: https://adminlte.io/
