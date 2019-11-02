@@ -6,6 +6,8 @@ O site ComunidadeMultiNivel foi desenvolvido para melhor gerenciamento de equipe
 
 # A ideia
 - A ideia principal do site Comunidade MultiNível era gerenciar uma estratégia de crescimento de nossa equipe dentro da empresa TalkFusion, com ferramentas para alavancar o nosso cresimento dentro das empresas de Marketing MultiNivel e tutoriais explicativos e incentivadores para impulsionar o nosso trabalho e capacitar novos empreendedores. 
+
+- Ferramenta de Trabalho para alavancar o crescimento de toda nossa equipe (Dicas Diárias).
 Umas dessas ferramentas de trabalho era a "Dicas Diárias" que basicamente era uma área onde os usuários acessaram diariamente passando por 3 etapas, com 3 dicas da própria Comunidade MultiNivel, e ao final dessas 3 etapas o usuario ganhava 1 ponto no Rank de Premiação. Nessas 3 etapas havia varios espaços de publicidades, onde a Comunidade MultiNivel divulgava para seus próprios usuários e o dinheiro que a Comunidade MultiNivel ganhava para divulgar as publicidades era redirecionado para as premiações dessa ferramenta. O usuario mais pontuado no RANK de Premição ganhava uma adesão + plano de umas das empresas de Marketing MultiNivel adaptada na Comunidade MultiNivel, para também começar a trabalhar em nossa equipe, por tanto a ideia dessa ferramenta era financiar os seus indicados diretos e indiretos em sua própria rede de afiliados abaixo, pois como você também seria nosso indicado, todos nós ganhariamos uma determinada comissão, essa ferramenta ajudaria as pessoas que não possuia o valor de adesão+Plano para iniciar os trabalho dentro das empresas de marketing MultiNivel.
 
 # A empresa TalkFusion
