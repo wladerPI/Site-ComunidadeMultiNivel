@@ -13,6 +13,9 @@ Umas dessas ferramentas de trabalho era a "Dicas Diárias" que basicamente era u
 
 Seguindo esse conceito da ferramenta de trabalho "Dicas Diárias", também adaptamos a antiga empresa de publicidade "TrafficMonsoon", onde todos os usuários da Comunidade MultiNível se cadastrava atráves do link de indicação da própria Comunidade MultiNível, e todos esses usuários participavam diariamente das atividades da empresa TrafficMonsoon, proporcionando uma determinada quantia em dólares para eles e uma determinada quantia de comissões para a Comunidade MultiNível, e essas comissões também seriam utilizadas para financiar todos os participantes da ferramenta de trabalho Dicas Diárias nas empresas de Marketing MultiNivel.
 
+# A empresa TrafficMonsoon
+A TrafficMonsoon era uma empresa especializada em publicidade e partilha de lucros que  qualquer pessoa podia fazer parte de forma gratuita, a empresa disponibilizava uma média de 10 a 20 anúncios para serem clicados e visualizados que gerevam aproximadamente $0,01 de lucro para os usuarios por anúncio clicado, e outros $0,01 de comissão para a Comunidade MultiNivel, por anúncio clicado e por usuario indicado, e a Comunidade MultiNivel utilizava todo esse dinheiro para financiar adesões+pacotes para todos seus indicados entrarem na sua equipe da empresa de MultiNivel TalkFusion.
+
 # A empresa TalkFusion
 Em 2004, o fundador e CEO da Talk Fusion, Bob Reina, queria enviar um vídeo por e-mail, mas seu provedor de serviços de Internet disse que isso não podia ser feito. Com a ajuda de um amigo de TI, eles conseguiram o Email de Vídeo aparentemente impossível e aperfeiçoado. 
 O fenômeno que começou com o Video Email em 2007 evoluiu para cinco produtos incríveis - Email de Vídeo, Boletins de Vídeo, Reuniões ao Vivo, Chat com Vídeo e Formulários de Inscrição - que fornecerão resultados incríveis para uso pessoal e comercial. 
