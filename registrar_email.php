@@ -82,7 +82,7 @@ $mail->SMTPAuth = true;
 $mail->SMTPKeepAlive = true; // SMTP connection will not close after each email sent, reduces SMTP overhead
 $mail->Port = 587;
 $mail->Username = $seuemail;
-$mail->Password = "cm393pi";
+$mail->Password = "123";
 $mail->setFrom("$seuemail", 'Comunidade MultiNivel');
 $mail->addReplyTo("$seuemail", 'Comunidade MultiNivel');
 
