@@ -106,3 +106,7 @@ LINK do Site Oficial da empresa: https://talkfusion.com/
 
 # Outras Informações e Utilizações
   - Foi integrado o Layout da plataforma AdminLTE (AdminLTE-1.0), veja o link: https://adminlte.io/
+   
+  
+# O que você achou desse projeto? Você tem alguma ideia para implementar? Gostaria de de fazer uma parceira? 
+Entre em contato comigo, vamos conversar sobre o assunto ;) 
