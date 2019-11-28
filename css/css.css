@@ -1,0 +1,329 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,  fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+body {
+line-height: 1;
+}
+ol, ul {
+list-style: none;
+}
+blockquote, q {
+quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+content: '';
+content: none;
+}
+
+:focus {
+outline: 0;
+}
+
+ins {
+text-decoration: none;
+}
+del {
+text-decoration: line-through;
+}
+
+table {
+border-collapse: collapse;
+border-spacing: 0;
+}
+
+
+/************************************** fim da formatação ***************************/
+
+* reset de margens */
+* {
+	margin: 0;
+	padding:0;
+}
+
+/* para garantir que estes elementos ocuparão toda a tela */
+body, html {
+	width: 100%;
+	height: 100%;
+	
+}
+video 
+{ 
+    width: 100%; 
+    height: auto; 
+}
+video 
+{ 
+height: auto;
+width: auto;
+min-width: 100%;
+min-height: 100%; 
+}
+  .videoContainer 
+{ 
+    position: absolute; 
+    height: 100%; 
+    width: 100%; 
+    overflow: hidden; 
+}
+
+vídeo .videoContainer 
+{ 
+    min-width: 100%; 
+    min-height: 100%; 
+}
+
+#geral {
+	position: absolute; 
+	top:1%;
+	right:2%;
+	width: auto;
+	height: auto;  
+	background: #FFF; /* fundo branco para navegadores que não suportam rgba */
+	background: rgba(255,255,255,0.5); /* fundo branco com um pouco de transparência */
+ 
+}
+#geral b {
+	font-size:14px; 
+	margin:0px 0px 0px 30px;
+}
+
+    
+ #form {
+ 
+    width: 550px;
+	height: 90px;
+    margin: 10px 10px 10px 10px;
+    overflow:auto;
+ 
+    /* Border style */
+    border: 1px solid #cccccc;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px; 
+ 
+    /* Border Shadow */
+    -moz-box-shadow: 2px 2px 2px #cccccc;
+    -webkit-box-shadow: 2px 2px 2px #cccccc;
+    box-shadow: 2px 2px 2px #cccccc;
+ 
+    }
+ #form2 { 
+ 
+    width: 420px;
+	height: 110px;
+    margin: 10px 10px 0px 20%;
+    overflow:auto; 
+    }	
+label {
+    font-family: Arial, Verdana;
+    text-shadow: 2px 2px 2px #ccc;
+    display: block;
+    float: left; margin-right:5px;
+    font-weight: bold;
+    margin-right:0px;
+    text-align: right;
+    line-height: 25px;
+    font-size: 15px;
+    }
+.input{
+    font-family: Arial, Verdana;
+    font-size: 15px;
+    padding: 5px;
+    border: 1px solid #b9bdc1;
+    width: 270px;
+    color: #797979;
+	margin:3px 0px 0px 0px;
+    }
+.hint{
+    display:none;
+    }
+.field:hover .hint {
+	font-weight: italic;
+	font-size: 12px;
+    position: absolute;
+    display: block;
+    margin: -30px 0px 0px 250px;
+    color: #FFFFFF;
+    padding: 7px 10px;
+    background: rgba(0, 0, 0, 0.6);
+ 
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+    }
+ .field  {
+    float:left;
+	margin:10px 0px 0px 10px;
+    }
+ .bot {
+	float:right;
+ }
+ 
+  
+
+.form_email_admin {
+	height:20px;
+	width:300px;
+	font:15px bold Arial, Tahoma, sans-serif;
+	border: 5px groove #CCC;
+}
+.form_email_admin_foco {
+	height:20px;
+	width:300px;
+	font:15px bold Arial, Tahoma, sans-serif;
+	border:5px groove #666;
+}
+.form_senha_admin {
+	height:16px;
+	width:200px;
+	font:15px bold Arial, Tahoma, sans-serif;
+	border: 3px groove #CCC;
+	margin:0px 0px 0px 4px;
+}
+.form_senha_admin_foco {
+	height:16px;
+	width:200px;
+	font:15px bold Arial, Tahoma, sans-serif;
+	border:3px groove #666;
+	margin:0px 0px 0px 4px;
+}
+.form_bot_adm { 
+	height:30px;
+	width:100px;
+	margin:0px 0px 0px 300px;
+	
+}
+
+/* MENU */
+
+div.menuWin
+{
+		width: 400px;
+		border: 1px solid #000000;
+}
+
+div.menuWin a
+{
+		display: block;
+		padding-left: 3px;
+		padding-right: 3px;
+		margin: 0px;
+		border: 0px;
+		line-height: 20px;
+		color: #000000;
+		text-decoration: none;
+		outline: none;
+}
+
+* html div.menuWin a { height: 1%; }
+
+div.menuWin a:hover
+{
+		background-color: #000066;
+		color: #FFFFFF;
+}
+
+ul.menuWin-body
+{
+		margin: 0px;
+		padding: 0px;
+		width: 400px;
+		background: #CCCCCC;
+}
+
+ul.menuWin-body li
+{
+		display: block;
+		margin: 0px;
+		padding: 0px;
+		list-style: none;
+		clear: both;
+}
+
+ul.menuWin-body li div
+{
+		width: 20px;
+		float: left;
+		margin: 0px;
+		margin-right: 5px;
+		padding: 0px;
+}
+
+ul.menuWin-body li img
+{
+		margin: 2px;
+		width: 16px;
+		height: 16px;
+		padding: 0px;
+		border: 0px;
+		vertical-align: middle;
+}
+
+span.menuWin-arrow
+{	
+		display: block;
+		width: 398px;
+		position : absolute;
+		text-align: right;
+}
+
+span.menuWin-arrow img
+{
+		padding: 3px 2px;
+		cursor: pointer;
+		width: 15px;
+		height: 15px;
+}
+
+span.menuWin-header
+{
+		display: block;
+		margin: 0px;
+		padding: 0px;
+		padding-left: 5px;
+		line-height: 22px;
+		color: #FFFFFF;
+		font-weight: bold;
+		background-color: #666;
+}
+
+#site {
+	position:absolute;
+	top:30%;
+	left:30%;
+	width:auto;
+	height:auto;  
+	text-align:left; /* "remédio" para o hack do IE */
+	margin:0 auto;
+	background:#FFF;
+	/* Required for IE 5, 6, 7 */
+	/* ...or something to trigger hasLayout, like zoom: 1; */
+	 
+		
+	/* Theoretically for IE 8 & 9 (more valid) */	
+	/* ...but not required as filter works too */
+	/* should come BEFORE filter */
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	
+	/* This works in IE 8 & 9 too */
+	/* ... but also 5, 6, 7 */
+	filter: alpha(opacity=70);
+	
+	/* Older than Firefox 0.9 */
+	-moz-opacity:0.7;
+	
+	/* Safari 1.x (pre WebKit!) */
+	-khtml-opacity: 0.7;
+    
+	/* Modern!
+	/* Firefox 0.9+, Safari 2?, Chrome any?
+	/* Opera 9+, IE 9+ */
+	opacity: 0.7;
+}
