@@ -1,0 +1,260 @@
+#manutencao img{
+	margin:0% 0% 0% 10%;
+	width:70%;
+	height:80%; 
+	border:5px solid #000; 
+}
+#projecao1 img{
+	margin:0% 0% 0% 1%;
+	width:100%;
+	height:100%; 
+	border:5px solid #000; 
+}
+#projecao2 img{
+	margin:0% 0% 0% 1%;
+	width:100%;
+	height:100%; 
+	border:5px solid #000; 
+}
+#projecao3 img{
+	margin:0% 0% 0% 1%;
+	width:100%;
+	height:100%; 
+	border:5px solid #000; 
+}
+.eunorank {
+	font:20px bold Arial, Tahoma, sans-serif;
+	color:red;
+	font-weight:900;
+}
+#tabela_niveis {
+	width:270px;
+	height:auto;
+	background:#3c8dbc;
+	font:14px bold Arial, Tahoma, sans-serif; 
+	font-weight:900;
+	text-align:center;
+} 
+
+#div_face {
+	width:330px;
+	height:300px; 
+	float:left;
+}
+#div_atendimento {
+	width:350px;
+	height:250px; 
+	float:left;
+}
+#div_canal {
+	width:300px;
+	height:110px; 
+	float:right;
+}
+#div_contato{
+	width:auto;
+	height:auto; 
+	clear:both;
+}
+
+#tabela_rede {
+	width:100%;
+	height:100px; 
+	text-align:center; 
+}
+.borda {
+	width:15%;
+	border-right:3px solid #666666;
+}
+.fonte_nivel {
+	font-size:28px;
+	color:red;
+}
+#tabela_rede tr td {
+	 
+}
+#posicao1 {
+	width:160px;
+	height:auto;
+	border:3px solid #d0e3f0;
+	background:#eeeeee;	
+}
+#posicao2 {
+	width:110px;
+	height:auto; 
+	border:3px solid #d0e3f0;
+	background:#eeeeee;
+}
+#position_left {   
+	 float:left; 
+} 
+#position_right {  
+}
+
+#capa {
+	position:relative;
+	top:0px;
+	left:0px;
+	width:auto;
+	height:250px; 
+}
+#capa h1{
+	margin:0px 0px 0px 230px;
+}
+
+.video {
+	border:20px solid #000;
+ }
+ 
+.ir_pocicao {
+	width:180px;
+	height:35px; 
+	font:14px bold Arial, Tahoma, sans-serif; 
+ }
+
+#fundo_renda {
+	width:1080px;
+	height:140px;
+	background: url("../img/fundo_renda_talkfusion.jpg") no-repeat ;
+	margin:0px 0px 0px 0px;
+	color:#FFF;
+	font:14px bold Arial, Tahoma, sans-serif; 
+}
+#fundo_renda tr{
+	position:relative; 
+	margin:0px 0px 0px 0px; 
+}
+.login_talk {
+	margin:4px 0px 0px 5px;
+} 
+
+.searchform {
+	margin:0 0 12px;
+	padding:0; 
+	width:100%;
+	height:100%;
+	font:16px bold times new roman, Arial, Tahoma, sans-serif;
+}
+#formlogin {
+	margin:5px  0px 0px 5px;
+}
+
+.email_login {
+	width:235px;
+	height:20px;
+	margin:0px 0px 0px 6px;
+	background:#e8eaff;
+	border:1px solid #FFF;
+}
+.email_login_foco {
+	width:235px;
+	height:20px;
+	margin:0px 0px 0px 6px;
+	background:#FFF;
+	border:1px solid #000;
+}
+.senha_login {
+	width:160px;
+	height:20px;
+	background:#e8eaff;
+	border:1px solid #FFF;
+}
+.senha_login_foco {
+	width:160px;
+	height:20px;
+	background:#e8eaff;
+	border:1px solid #000;
+}
+.but_login{
+	width:70px;
+	height:25px;
+	background:#056160;
+	border:1px groove #FFF;
+	color:#FFF;
+}
+.but_login_foco{
+	width:70px;
+	height:25px;
+	background:#056160;
+	border:1px groove #000;
+	color:#CCC;
+}
+
+#formsearch span {
+	display:block;
+	margin:0;
+	padding:0;
+	float:left;
+	background:url(../images/search_bg.gif) no-repeat left top;
+}
+#formsearch input.editbox_search {
+	margin:0;
+	padding:8px 6px;
+	float:left;
+	width:174px;
+	font-size:12px;
+	line-height:14px;
+	color:#aeaeae;
+	background:none;
+	outline:none;
+	border:none;
+}
+#formsearch input.button_search {
+	margin:0;
+	padding:0;
+	border:none;
+	float:left;
+}
+/* dicas */
+#anuncios_top {
+	POSITION:relative;
+	top:0px;
+	left:0px; 
+	width:100%;
+	height:290px; 
+}
+#top_left {
+	float:left;  
+	width:68%;
+	height:290px;
+}
+#top_right {
+	float:right;  
+	width:32%;
+	height:290px;
+}
+#anuncios_left {
+	float:left;  
+	width:30%;
+	height:510px;
+} 
+#dica_centro {
+	margin:0% 0% 0% 30%;
+	background:#ededed;
+	width:70%;
+	height:auto;
+	border:3px dotted #666; 
+}
+#dica_centro h3  {
+	margin:2% 0% 0% 3%;  
+}
+#dica_centro h1  {
+	margin:2% 0% 0% 1%;  
+}
+#dica_centro p {
+	margin:2% 0% 0% 3%;  
+}
+#anuncios_rodape {
+	margin:1% 0% 0% 0%; 
+	width:100%;
+	height:350px;
+	clear:both; 
+}
+#publicidade_dica {
+	margin:1% 0% 0% 10%; 
+	width:80%;
+	height:400px;  
+}
+#publicidade_dica i { 
+	color:red;
+}
