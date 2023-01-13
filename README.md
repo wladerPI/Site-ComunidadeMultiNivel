@@ -96,12 +96,11 @@ LINK do Site Oficial da empresa: https://talkfusion.com/
 # Tabelas do Banco de Dados (comunidademult)
   - Veja a estrutura do Banco de Dados no Arquivo estrutara_sql.txt
      
-# Linguagens de programação utilizada no site
+# Tags/ Linguagens de programação utilizada no site
 - HTML
-- CSS
+- CSS (Bootstrap)
 - PHP
-- JavaScript
-- JQuery
+- JavaScript (JQuery, Popper.js, ChartJS, JSGrid, DataTables, Dropzone.js, Weetalert2, Toastr, Fullcalendar, jQuery IU, jQuery Validation, jQuery Mapael) 
 - MySQL
 
 # Outras Informações e Utilizações
